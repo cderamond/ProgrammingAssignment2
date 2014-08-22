@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## this assignment 2 for Coursera r-programing : rprog-006
+## makeCacheMatrix creates a square matrix
+## by Wikipedia: http://en.wikipedia.org/wiki/Invertible_matrix 
+##note : A square matrix is singular if and only if its determinant is 0. 
 
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
 
